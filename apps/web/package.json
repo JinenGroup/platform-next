@@ -24,7 +24,7 @@
     "@tailwindcss/typography": "^0.5.9",
     "autoprefixer": "^10.4.14",
     "flowbite": "^1.6.5",
-    "flowbite-svelte": "^0.34.9",
+    "flowbite-svelte": "^0.37.5",
     "postcss": "^8.4.22",
     "svelte": "^3.54.0",
     "svelte-check": "^3.0.1",
