@@ -47,7 +47,7 @@
     "@culur/stylelint-config": "^1.2.0",
     "@iconify/json": "^2.2.77",
     "@types/node": "^18.15.11",
-    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/eslint-plugin": "^5.60.0",
     "@typescript-eslint/parser": "^5.57.1",
     "commitlint": "^17.6.1",
     "eslint": "^8.38.0",
